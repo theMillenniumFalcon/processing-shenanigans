@@ -12,7 +12,7 @@ void draw() {
   noStroke();
   sphereDetail(3);
 
-  float tiles = 100;
+  float tiles = 200;
   float tileSize = width/tiles;
 
   push();
